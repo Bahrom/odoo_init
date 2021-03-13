@@ -5,7 +5,7 @@
 *.py[co]
 # emacs backup files
 *~
-/odoo.cfg
+odoo.cfg
 # not tracked subdirectories
 /env/
 /src/
